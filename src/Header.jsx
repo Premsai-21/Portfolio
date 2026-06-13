@@ -10,7 +10,7 @@ export default function Header() {
   return (
     <header className="header">
       <a className="logo" href="#top" onClick={closeNav}>
-        PSD
+        PREM SAI DONEPUDI
       </a>
       <button
         type="button"
