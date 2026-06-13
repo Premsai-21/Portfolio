@@ -130,7 +130,7 @@ export default function App() {
                 <span className="pill">Java · Spring Boot</span>
                 <time dateTime="2025">2025</time>
               </div>
-              <h3>Food Delivery Management System</h3>
+              <h3>Foodie Hub Delivery System </h3>
               <p>
                 Full-stack system for browsing restaurants, placing orders,
                 tracking deliveries, and handling payments via{" "}
