@@ -15,7 +15,7 @@ const SKILLS = [
   "Eclipse",
   "Postman",
   "Machine Learning",
-  "Azure (AZ-900)Food Delivery Management System",
+  "Azure (AZ-900)",
 ];
 
 export default function App() {
